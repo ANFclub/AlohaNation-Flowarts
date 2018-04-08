@@ -4,8 +4,8 @@ To provide a safe place to foster the growth of different flow art styles such a
 ## Contact Info
 President & Main Point of Contact Email: onakan@hawaii.edu
 
-<img class="ui tiny right floated rounded image" src="nate.jpg">
+<img class="ui tiny right floated rounded image" src="nate.jpg" width="100">
 
-<img class="ui tiny right floated rounded image" src="auxg.jpg">
+<img class="ui tiny right floated rounded image" src="auxg.jpg" width="100">
 
-<img class="ui tiny right floated rounded image" src="chetxprof.jpg">
+<img class="ui tiny right floated rounded image" src="chetxprof.jpg" width="100">
