@@ -4,6 +4,10 @@
 ## President
 <img src="nate.jpg" width="200">  
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+
 **Name | Email | Flow Style**
 
 Nathan Onaka | onakan | Gloving
