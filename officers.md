@@ -16,6 +16,7 @@
 | Austyn Bongco | austynb    | Glover     |
 
 ## Secretaries 
+<img src="isami.jpg" width="200"> <img src="haroun.jpg" width="200">
 
 | **Name**     | **Email** |**Flow style**|
 |:------------:|:---------:|:------------:|
@@ -32,6 +33,7 @@
 ## Treasurer
 
 ## Education Coordinator
+<img src="martin.jpg" width="200">
 
 | **Name**     | **Email** |**Flow style**|
 |:------------:|:---------:|:------------:|
