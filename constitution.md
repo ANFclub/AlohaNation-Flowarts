@@ -13,7 +13,7 @@
 
 **Section 2**:  Membership is done by contacting the organization leader and simply requesting to join.  Memberships last for as long as they wish to remain part of the organization, up until they leave the University. 
 
-**Section 3**: _ Membership Types_: There is only one type of membership, regular members.  Regular members can vote and attend all organization meetings and activities. 
+**Section 3**: _Membership Types_: There is only one type of membership, regular members.  Regular members can vote and attend all organization meetings and activities. 
 
 **Section 4**:  _Termination_: Memberships can be terminated in the case of breaking of UH Manoa or organization rules, by discussion and majority vote among the officers of the organization. 
  
