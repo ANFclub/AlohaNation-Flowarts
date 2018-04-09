@@ -1,1 +1,19 @@
-testing
+# Officers
+
+### President
+<img src="nate.jpg" width="200">  Nathan Onaka
+
+### Vice-President
+Austyn Bongco
+
+### Secretaries 
+Isami Freeman
+Haroun Zuhir
+
+### Historian
+Courtney Gomes
+
+### Treasurer
+
+### Education Coordinator
+Martin Hamilton
