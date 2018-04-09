@@ -2,10 +2,10 @@
 # Officers
 
 ### President
-<img src="nate.jpg" width="150">  Nathan Onaka
+<img src="nate.jpg" width="150">  Nathan Onaka | onakan
 
 ### Vice-President
-Austyn Bongco
+Austyn Bongco 
 
 ### Secretaries 
 Isami Freeman
