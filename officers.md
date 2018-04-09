@@ -4,41 +4,38 @@
 ## President
 <img src="nate.jpg" width="200">  
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-
-**Name | Email | Flow Style**
-
-Nathan Onaka | onakan | Gloving
+| Name          | Email         | Flow style  |
+| ------------- |:-------------:| -----------:|
+| Nathan Onaka  | onakan        | Glover      |
 
 ## Vice-President
 <img src="austyn.jpg" width="200">
 
-**Name | Email | Flow Style**
-
-Austyn Bongco | austynb | Gloving
+| Name          | Email         | Flow style  |
+| ------------- |:-------------:| -----------:|
+| Austyn Bongco | austynb       | Glover      |
 
 ## Secretaries 
 
-**Name | Email | Flow Style**
+| Name          | Email         | Flow style  |
+| ------------- |:-------------:| -----------:|
+| Isami Freeman | freemani      | Glover      |
+| Haroun Zuhir  | lebihhz       | Glover      |
 
-Isami Freeman | freemani | Gloving
-
-Haroun Zuhir | lebihhz | Gloving
 
 ## Historian
 
-**Name | Email | Flow Style**
-
-Courtney Gomes | ckgomes | Orbiting
+| Name          | Email         | Flow style  |
+| ------------- |:-------------:| -----------:|
+| Courtney Gomes| ckgomes       | Orbiter     |
 
 ## Treasurer
 
 ## Education Coordinator
 
-**Name | Email | Flow Style**
+| Name            | Email       | Flow style  |
+| --------------- |:-----------:| -----------:|
+| Martin Hamilton | martintk    | Gloving     |
 
-Martin Hamilton | martintk | Gloving
 
 <img src="home.png" width="20"> **[Homepage](index.md)**  <img src="book.png" width="20">**[Flowart Resources](flowresources.md)**
