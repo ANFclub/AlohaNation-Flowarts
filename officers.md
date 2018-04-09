@@ -1,3 +1,8 @@
+<style>
+img {
+    float: left;
+}
+</style>
 # Officers
 
 ### President
