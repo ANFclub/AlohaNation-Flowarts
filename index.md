@@ -2,9 +2,9 @@
 To provide a safe place to foster the growth of different flow art styles such as gloving, orbiting, hooping, poi, etc.  We hope to provide a venue for UH Manoa students to practice their art, compete, and hold events.  If you do any flow arts or are interested in learning about one, please consider joining the AlohaNation Flowarts RIO at UH Manoa!
 
 ## Contact Info
-President & Main Point of Contact Email: onakan@hawaii.edu
+President & Main Point of Contact Email: [onakan@hawaii.edu](onakan@hawaii.edu)
 
-Facebook Group: https://www.facebook.com/groups/593531597647551
+Facebook Group: [https://www.facebook.com/groups/593531597647551](https://www.facebook.com/groups/593531597647551)
 
 UH Manoa RIO List: [GoogleSheet](https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit#gid=864157507)
 <img class="ui right floated rounded image" src="chetxprof.jpg" width="700">
