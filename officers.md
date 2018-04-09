@@ -1,8 +1,13 @@
+<html>
+<head>
 <style>
 img {
     float: left;
 }
 </style>
+</head>
+<body>
+
 # Officers
 
 ### President
@@ -23,3 +28,6 @@ Courtney Gomes
 
 ### Education Coordinator
 Martin Hamilton
+
+</body>
+</html>
