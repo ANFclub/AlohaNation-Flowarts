@@ -4,5 +4,5 @@
 
 
 
-# Orbting
+# Orbiting
 <img src="auxg.jpg" width="700">
