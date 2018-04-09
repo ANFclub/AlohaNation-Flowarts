@@ -43,7 +43,13 @@ Section 1:  Time: Regular organization meetings will be held once a semester.  T
 Section 2:  Quorum: Majority of officers and regular members must be present at the one regular meeting each semester, the training meetings, sessions, competitions, and events are all optional attendance.  However at least one officer must be present at each activity. 
 Section 3:  Voting: Approval of actions are done by majority vote 
 Section 4:  Order of Business: 
- 1) Announcement of Official Meeting  2) Attendance  3) Officer Reports  4) Committee Reports  5) Announcements  6) Scheduling of Events  7) Closing 
+1) Announcement of Official Meeting  
+2) Attendance  
+3) Officer Reports  
+4) Committee Reports  
+5) Announcements  
+6) Scheduling of Events  
+7) Closing 
 Section 5:  Parliamentary Authority: Parliamentary authority shall be derived from Robert’s Rules of Order, Newly Revised for decisions related to budget, officer elections, and constitution revision. All other decisions shall be consensus. 
  
 ## ARTICLE VIII: FINANCES 
