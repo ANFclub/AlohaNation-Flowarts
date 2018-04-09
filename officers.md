@@ -2,7 +2,7 @@
 # Officers
 
 ### President
-<img class="floated" src="nate.jpg" width="150">  Nathan Onaka
+<img src="nate.jpg" width="150">  Nathan Onaka
 
 ### Vice-President
 Austyn Bongco
