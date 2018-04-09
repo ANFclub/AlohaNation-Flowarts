@@ -4,7 +4,9 @@ To provide a safe place to foster the growth of different flow art styles such a
 ## Contact Info
 President & Main Point of Contact Email: onakan@hawaii.edu
 <img class="ui right floated rounded image" src="chetxprof.jpg" width="700">
-                                            Featured: Smiley, Professor
+                                            _Featured: Smiley, Professor_
+                                            
+**[Officers](officers.md)**     **[Flowart Resources](flowresources.md)**     
                                            
 
 
