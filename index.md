@@ -4,7 +4,7 @@ To provide a safe place to foster the growth of different flow art styles such a
 ## Contact Info
 President & Main Point of Contact Email: [onakan@hawaii.edu](onakan@hawaii.edu)
 
-Facebook Group: [https://www.facebook.com/groups/593531597647551](https://www.facebook.com/groups/593531597647551)
+Facebook Group: [https://www.facebook.com/groups/anfclub](https://www.facebook.com/groups/anfclub)
 
 UH Manoa RIO List: [GoogleSheet](https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit#gid=864157507)
 <img class="ui right floated rounded image" src="chetxprof.jpg" width="700">
