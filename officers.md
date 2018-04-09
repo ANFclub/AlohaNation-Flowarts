@@ -20,4 +20,4 @@ Courtney Gomes
 ### Education Coordinator
 Martin Hamilton
 
-<img src="home.png" width="20"> **[Homepage](index.md)**
+<img src="home.png" width="20"> **[Homepage](index.md)**  <img src="book.png" width="20">**[Flowart Resources](flowresources.md)**
