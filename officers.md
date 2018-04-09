@@ -38,4 +38,4 @@
 | Martin Hamilton | martintk  | Glover    |
 
 
-<img src="home.png" width="20"> **[Homepage](index.md)**  <img src="book.png" width="20">**[Flowart Resources](flowresources.md)**
+<img src="home.png" width="20"> **[Homepage](index.md)**  <img src="book.png" width="20">**[Flowart Resources](flowresources.md)**<img src="scroll.png" width="20">**[Constitution](constitution.md)**
