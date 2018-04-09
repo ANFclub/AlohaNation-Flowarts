@@ -1,21 +1,21 @@
 
 # Officers
 
-### President
-<img src="nate.jpg" width="100">  
+## President
+<img src="nate.jpg" width="200">  
 
 **Name | Email | Flow Style**
 
 Nathan Onaka | onakan | Gloving
 
-### Vice-President
-<img src="austyn.jpg" width="100">
+## Vice-President
+<img src="austyn.jpg" width="200">
 
 **Name | Email | Flow Style**
 
 Austyn Bongco | austynb | Gloving
 
-### Secretaries 
+## Secretaries 
 
 **Name | Email | Flow Style**
 
@@ -23,15 +23,15 @@ Isami Freeman | freemani | Gloving
 
 Haroun Zuhir | lebihhz | Gloving
 
-### Historian
+## Historian
 
 **Name | Email | Flow Style**
 
 Courtney Gomes | ckgomes | Orbiting
 
-### Treasurer
+## Treasurer
 
-### Education Coordinator
+## Education Coordinator
 
 **Name | Email | Flow Style**
 
