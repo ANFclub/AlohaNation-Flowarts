@@ -19,3 +19,5 @@ Courtney Gomes
 
 ### Education Coordinator
 Martin Hamilton
+
+<img src="home.png" width="20"> **[Homepage](index.md)**
