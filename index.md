@@ -6,7 +6,7 @@ President & Main Point of Contact Email: onakan@hawaii.edu
 <img class="ui right floated rounded image" src="chetxprof.jpg" width="700">
                                             _Featured: Smiley, Professor_
                                             
-<img src="profilepic.png" width="20">**[Officers](officers.md)**     <img src="book.png" width="20">**[Flowart Resources](flowresources.md)**     
+<img src="profilepic.png" width="20">**[Officers](officers.md)**                <img src="book.png" width="20">**[Flowart Resources](flowresources.md)**     
                                            
 
 
