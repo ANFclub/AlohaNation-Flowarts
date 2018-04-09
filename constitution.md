@@ -90,4 +90,4 @@ This majority vote election process could be expanded to include any other posit
 
 **Section 2**:  _Voting_: Voting to approve the proposal will occur at next scheduled meeting and be approved by majority vote. 
 
-<img src="home.png" width="20"> **[Homepage](index.md)**<img src="profile.png" width="20"> **[Officers](officers.md)**<img src="book.png" width="20">**[Flowart Resources](flowresources.md)**
+<img src="home.png" width="20"> **[Homepage](index.md)**<img src="profilepic.png" width="20"> **[Officers](officers.md)**<img src="book.png" width="20">**[Flowart Resources](flowresources.md)**
