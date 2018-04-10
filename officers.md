@@ -25,6 +25,8 @@
 
 
 ## Historian
+<img src="courtney.jpg" width="200">
+_Photographer: IG: @miguelmoralesphotography FB: miguelmoralesphotos
 
 | **Name**     | **Email** |**Flow style**|
 |:------------:|:---------:|:------------:|
