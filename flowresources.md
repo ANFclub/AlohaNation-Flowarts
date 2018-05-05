@@ -1,7 +1,8 @@
 # Gloving
 <img src="chason.jpg" width="700">
 
-EmazingLights Beginner, Intermediate, and Advanced Tutorials
+### EmazingLights Beginner, Intermediate, and Advanced Tutorials
+
 https://www.emazinglights.com/pages/beginner-gloving-tutorials
 
 
