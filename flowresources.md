@@ -3,7 +3,7 @@
 
 ### EmazingLights Beginner, Intermediate, and Advanced Tutorials
 
-https://www.emazinglights.com/pages/beginner-gloving-tutorials
+[https://www.emazinglights.com/pages/beginner-gloving-tutorials](https://www.emazinglights.com/pages/beginner-gloving-tutorials)
 
 
 
